@@ -1,0 +1,606 @@
+title,rating,release year,user rating score
+White Chicks,PG-13,2004,82.0
+Grey's Anatomy,TV-14,2016,98.0
+Prison Break,TV-14,2008,98.0
+How I Met Your Mother,TV-PG,2014,94.0
+Supernatural,TV-14,2016,95.0
+Breaking Bad,TV-MA,2013,97.0
+The Vampire Diaries,TV-14,2017,91.0
+The Walking Dead,TV-MA,2015,98.0
+Pretty Little Liars,TV-14,2016,96.0
+Once Upon a Time,TV-PG,2016,98.0
+Sherlock,TV-14,2016,95.0
+Death Note,TV-14,2006,77.0
+Naruto,TV-PG,2008,88.0
+Arrow,TV-14,2015,96.0
+Black Mirror,TV-MA,2016,80.0
+The Originals,TV-14,2016,74.0
+The 100,NR,2016,97.0
+Masha and the Bear,TV-Y,2013,81.0
+Hunter X Hunter (2011),NR,2013,57.0
+Marvel's Luke Cage,TV-MA,2016,95.0
+Marvel's Iron Fist,TV-MA,2017,98.0
+Narcos,TV-MA,2016,94.0
+The Flash,TV-PG,2016,98.0
+The Do-Over,TV-MA,2016,84.0
+Trollhunters,TV-Y7-FV,2016,83.0
+Santa Clarita Diet,TV-MA,2017,82.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+Sand Castle,TV-MA,2017,89.0
+Sandy Wexler,TV-14,2017,92.0
+The Office (U.S.),TV-14,2012,97.0
+Grey's Anatomy,TV-14,2016,98.0
+Prison Break,TV-14,2008,98.0
+90210,TV-14,2013,62.0
+Gossip Girl,TV-14,2012,96.0
+How I Met Your Mother,TV-PG,2014,94.0
+Supernatural,TV-14,2016,95.0
+Breaking Bad,TV-MA,2013,97.0
+Parks and Recreation,TV-14,2015,94.0
+Glee,TV-PG,2015,92.0
+The Vampire Diaries,TV-14,2017,91.0
+Family Guy,TV-MA,2015,98.0
+Criminal Minds,TV-14,2016,98.0
+Friends,TV-14,2003,98.0
+The Secret Life of the American Teenager,TV-14,2013,81.0
+One Tree Hill,TV-14,2011,90.0
+The Walking Dead,TV-MA,2015,98.0
+Pretty Little Liars,TV-14,2016,96.0
+Shameless (U.S.),TV-MA,2016,97.0
+New Girl,TV-14,2016,91.0
+American Horror Story,TV-MA,2016,90.0
+Orange Is the New Black,TV-MA,2016,98.0
+Black Mirror,TV-MA,2016,80.0
+Bates Motel,TV-14,2016,83.0
+The 100,NR,2016,97.0
+Marvel's Iron Fist,TV-MA,2017,98.0
+Grace and Frankie,TV-MA,2017,90.0
+How to Get Away with Murder,TV-14,2016,95.0
+The Get Down,TV-MA,2017,80.0
+The Flash,TV-PG,2016,98.0
+Stranger Things,TV-14,2016,90.0
+Ingobernable,TV-MA,2017,96.0
+Zootopia,PG,2016,97.0
+Meet the Blacks,R,2016,79.0
+Finding Dory,PG,2016,98.0
+Santa Clarita Diet,TV-MA,2017,82.0
+Sausage Party,R,2016,91.0
+Pete's Dragon,PG,2016,93.0
+Kevin Hart: What Now?,R,2016,97.0
+Girlboss,TV-MA,2017,94.0
+Sand Castle,TV-MA,2017,89.0
+Sandy Wexler,TV-14,2017,92.0
+Chewing Gum,TV-MA,2017,93.0
+Cheer Squad,TV-PG,2016,61.0
+Only for One Night,TV-MA,2016,78.0
+The Office (U.S.),TV-14,2012,97.0
+30 Rock,TV-14,2012,66.0
+Mad Men,TV-14,2014,75.0
+It's Always Sunny in Philadelphia,TV-MA,2016,91.0
+Californication,TV-MA,2014,63.0
+Parks and Recreation,TV-14,2015,94.0
+Friends,TV-14,2003,98.0
+Shameless (U.S.),TV-MA,2016,97.0
+Portlandia,TV-14,2016,62.0
+New Girl,TV-14,2016,91.0
+The Client List,TV-14,2013,92.0
+Marvel's Iron Fist,TV-MA,2017,98.0
+Grace and Frankie,TV-MA,2017,90.0
+Better Call Saul,TV-MA,2016,95.0
+The Get Down,TV-MA,2017,80.0
+Schitt's Creek,TV-14,2016,74.0
+The Great British Baking Show,TV-PG,2016,94.0
+Life in Pieces,TV-14,2015,68.0
+Santa Clarita Diet,TV-MA,2017,82.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+Sandy Wexler,TV-14,2017,92.0
+Chewing Gum,TV-MA,2017,93.0
+Louis C.K. 2017,TV-MA,2017,71.0
+Dave Chappelle,TV-MA,2017,94.0
+The Cleveland Show,TV-14,2012,88.0
+Absolutely Fabulous,TV-14,2012,59.0
+Raising Hope,TV-14,2013,73.0
+Orange Is the New Black,TV-MA,2016,98.0
+Brickleberry,TV-MA,2014,63.0
+Bates Motel,TV-14,2016,83.0
+Grace and Frankie,TV-MA,2017,90.0
+The Get Down,TV-MA,2017,80.0
+Bordertown,TV-14,2016,86.0
+Jane The Virgin,TV-14,2016,91.0
+Schitt's Creek,TV-14,2016,74.0
+Dope,R,2015,79.0
+The Carmichael Show,TV-14,2016,69.0
+The Great British Baking Show,TV-PG,2016,94.0
+Life in Pieces,TV-14,2015,68.0
+Haters Back Off,TV-14,2016,58.0
+Kubo and the Two Strings,PG,2016,96.0
+Little Boxes,TV-14,2016,61.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+Greenleaf,TV-14,2016,62.0
+Dave Chappelle,TV-MA,2017,94.0
+Only for One Night,TV-MA,2016,78.0
+30 Rock,TV-14,2012,66.0
+Nurse Jackie,TV-MA,2015,82.0
+Parks and Recreation,TV-14,2015,94.0
+Gilmore Girls,TV-14,2006,91.0
+Parenthood,TV-14,2014,79.0
+Life Unexpected,TV-PG,2010,55.0
+Portlandia,TV-14,2016,62.0
+New Girl,TV-14,2016,91.0
+Raising Hope,TV-14,2013,73.0
+Being Human (U.S.),TV-14,2014,58.0
+Baby Daddy,TV-14,2016,80.0
+Grace and Frankie,TV-MA,2017,90.0
+The Get Down,TV-MA,2017,80.0
+Sense8,TV-MA,2017,81.0
+Bordertown,TV-14,2016,86.0
+Girlfriends' Guide to Divorce,TV-14,2015,63.0
+Schitt's Creek,TV-14,2016,74.0
+The Carmichael Show,TV-14,2016,69.0
+The Great British Baking Show,TV-PG,2016,94.0
+Life in Pieces,TV-14,2015,68.0
+The Great Gilly Hopkins,PG,2016,69.0
+The Magicians,TV-MA,2016,89.0
+13 Reasons Why,TV-MA,2017,99.0
+Sandy Wexler,TV-14,2017,92.0
+Chewing Gum,TV-MA,2017,93.0
+The Matchbreaker,PG,2016,79.0
+Cheer Squad,TV-PG,2016,61.0
+The Waterboy,PG-13,1998,82.0
+10 Things I Hate About You,PG-13,1999,68.0
+Grease,PG,1978,86.0
+How to Lose a Guy in 10 Days,PG-13,2003,56.0
+The Benchwarmers,PG-13,2006,77.0
+Step Up,PG-13,2006,64.0
+High School Musical 2,TV-G,2007,58.0
+Twilight,PG-13,2008,89.0
+Coraline,PG,2009,95.0
+Hannah Montana: The Movie,G,2009,56.0
+The Office (U.S.),TV-14,2012,97.0
+Friday Night Lights,TV-PG,2010,81.0
+Grey's Anatomy,TV-14,2016,98.0
+Prison Break,TV-14,2008,98.0
+90210,TV-14,2013,62.0
+Gossip Girl,TV-14,2012,96.0
+How I Met Your Mother,TV-PG,2014,94.0
+Glee,TV-PG,2015,92.0
+The Vampire Diaries,TV-14,2017,91.0
+Family Guy,TV-MA,2015,98.0
+Criminal Minds,TV-14,2016,98.0
+Friends,TV-14,2003,98.0
+The Secret Life of the American Teenager,TV-14,2013,81.0
+That '70s Show,TV-14,2005,89.0
+Gilmore Girls,TV-14,2006,91.0
+Parenthood,TV-14,2014,79.0
+Heartland,TV-PG,2015,85.0
+Pretty Little Liars,TV-14,2016,96.0
+Shameless (U.S.),TV-MA,2016,97.0
+Switched at Birth,TV-14,2015,83.0
+New Girl,TV-14,2016,91.0
+Hart of Dixie,TV-PG,2014,81.0
+The Client List,TV-14,2013,92.0
+Safe Haven,PG-13,2013,62.0
+Baby Daddy,TV-14,2016,80.0
+The Night Shift,TV-14,2015,93.0
+Reign,TV-14,2015,79.0
+Grace and Frankie,TV-MA,2017,90.0
+How to Get Away with Murder,TV-14,2016,95.0
+Fuller House,TV-G,2016,90.0
+Finding Dory,PG,2016,98.0
+Gilmore Girls: A Year in the Life,TV-14,2016,77.0
+13 Reasons Why,TV-MA,2017,99.0
+Gabriel lglesias: I’m Sorry For What I Said When I Was Hungry,TV-14,2016,84.0
+Cheer Squad,TV-PG,2016,61.0
+Dave Chappelle,TV-MA,2017,94.0
+The Waterboy,PG-13,1998,82.0
+Grease,PG,1978,86.0
+Blow,R,2001,78.0
+High School Musical,TV-G,2006,64.0
+High School Musical 2,TV-G,2007,58.0
+Twilight,PG-13,2008,89.0
+Hannah Montana: The Movie,G,2009,56.0
+The Office (U.S.),TV-14,2012,97.0
+Bones,TV-14,2016,97.0
+Law & Order: Special Victims Unit,TV-14,2015,97.0
+Prison Break,TV-14,2008,98.0
+Nurse Jackie,TV-MA,2015,82.0
+NCIS,TV-14,2016,97.0
+Gossip Girl,TV-14,2012,96.0
+How I Met Your Mother,TV-PG,2014,94.0
+Supernatural,TV-14,2016,95.0
+Parks and Recreation,TV-14,2015,94.0
+Glee,TV-PG,2015,92.0
+The Vampire Diaries,TV-14,2017,91.0
+Criminal Minds,TV-14,2016,98.0
+Friends,TV-14,2003,98.0
+The Secret Life of the American Teenager,TV-14,2013,81.0
+One Tree Hill,TV-14,2011,90.0
+Army Wives,TV-14,2013,61.0
+Gilmore Girls,TV-14,2006,91.0
+Private Practice,TV-14,2012,88.0
+Parenthood,TV-14,2014,79.0
+Pretty Little Liars,TV-14,2016,96.0
+Shameless (U.S.),TV-MA,2016,97.0
+New Girl,TV-14,2016,91.0
+Revenge,TV-PG,2015,84.0
+Scandal,TV-14,2016,92.0
+Magic Mike,R,2012,77.0
+Trouble with the Curve,PG-13,2012,63.0
+Orange Is the New Black,TV-MA,2016,98.0
+Baby Daddy,TV-14,2016,80.0
+The Night Shift,TV-14,2015,93.0
+The Originals,TV-14,2016,74.0
+Home,PG,2015,94.0
+How to Get Away with Murder,TV-14,2016,95.0
+Zootopia,PG,2016,97.0
+Finding Dory,PG,2016,98.0
+Sausage Party,R,2016,91.0
+Skin Wars,TV-14,2016,69.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+Cheer Squad,TV-PG,2016,61.0
+Lost,TV-14,2010,98.0
+Weeds,TV-MA,2012,85.0
+Grey's Anatomy,TV-14,2016,98.0
+Lie to Me,TV-14,2010,89.0
+Prison Break,TV-14,2008,98.0
+Gossip Girl,TV-14,2012,96.0
+Glee,TV-PG,2015,92.0
+The Vampire Diaries,TV-14,2017,91.0
+The Secret Life of the American Teenager,TV-14,2013,81.0
+Gilmore Girls,TV-14,2006,91.0
+Charmed,TV-PG,2005,90.0
+White Collar,TV-PG,2014,93.0
+House of Cards,TV-MA,2016,91.0
+Pretty Little Liars,TV-14,2016,96.0
+The Killing,TV-14,2014,73.0
+Shameless (U.S.),TV-MA,2016,97.0
+Hart of Dixie,TV-PG,2014,81.0
+Once Upon a Time,TV-PG,2016,98.0
+Scandal,TV-14,2016,92.0
+The Client List,TV-14,2013,92.0
+Bates Motel,TV-14,2016,83.0
+The Blacklist,TV-14,2016,96.0
+The Fosters,TV-14,2016,73.0
+Reign,TV-14,2015,79.0
+The Originals,TV-14,2016,74.0
+The 100,NR,2016,97.0
+Bitten,TV-MA,2016,56.0
+London Has Fallen,R,2016,96.0
+Marvel's Jessica Jones,TV-MA,2015,83.0
+Grace and Frankie,TV-MA,2017,90.0
+How to Get Away with Murder,TV-14,2016,95.0
+The Crown,TV-MA,2016,84.0
+Jane The Virgin,TV-14,2016,91.0
+Quantico,TV-14,2016,88.0
+Life in Pieces,TV-14,2015,68.0
+Ingobernable,TV-MA,2017,96.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+Greenleaf,TV-14,2016,62.0
+Bones,TV-14,2016,97.0
+Dexter,TV-MA,2013,95.0
+Leverage,TV-PG,2012,86.0
+Grey's Anatomy,TV-14,2016,98.0
+Lie to Me,TV-14,2010,89.0
+Prison Break,TV-14,2008,98.0
+NCIS,TV-14,2016,97.0
+Burn Notice,TV-14,2013,85.0
+Breaking Bad,TV-MA,2013,97.0
+Criminal Minds,TV-14,2016,98.0
+White Collar,TV-PG,2014,93.0
+Luther,TV-14,2015,69.0
+Hawaii Five-0,TV-14,2016,96.0
+House of Cards,TV-MA,2016,91.0
+Last Man Standing,TV-PG,2015,97.0
+Revenge,TV-PG,2015,84.0
+Person of Interest,TV-14,2016,93.0
+Scandal,TV-14,2016,92.0
+Touch,TV-14,2012,68.0
+Sherlock,TV-14,2016,95.0
+Breakout Kings,TV-14,2012,88.0
+The Client List,TV-14,2013,92.0
+Arrow,TV-14,2015,96.0
+Longmire,TV-14,2016,92.0
+The Fall,TV-MA,2016,61.0
+Death in Paradise,TV-14,2016,77.0
+Marvel's Agents of S.H.I.E.L.D.,TV-PG,2016,89.0
+Crossing Lines,TV-14,2015,66.0
+London Has Fallen,R,2016,96.0
+Marvel's Iron Fist,TV-MA,2017,98.0
+Gotham,TV-14,2016,85.0
+Better Call Saul,TV-MA,2016,95.0
+How to Get Away with Murder,TV-14,2016,95.0
+Narcos,TV-MA,2016,94.0
+Hap and Leonard,TV-MA,2016,57.0
+Rosewood,TV-14,2015,81.0
+Quantico,TV-14,2016,88.0
+Limitless,TV-14,2016,84.0
+Travelers,TV-MA,2016,86.0
+The Doctor Blake Mysteries,TV-MA,2016,57.0
+The Office (U.S.),TV-14,2012,97.0
+Grey's Anatomy,TV-14,2016,98.0
+Law & Order: Special Victims Unit,TV-14,2015,97.0
+Lie to Me,TV-14,2010,89.0
+Prison Break,TV-14,2008,98.0
+90210,TV-14,2013,62.0
+Gossip Girl,TV-14,2012,96.0
+How I Met Your Mother,TV-PG,2014,94.0
+Parks and Recreation,TV-14,2015,94.0
+The Vampire Diaries,TV-14,2017,91.0
+Criminal Minds,TV-14,2016,98.0
+Friends,TV-14,2003,98.0
+The West Wing,TV-14,2005,79.0
+Parenthood,TV-14,2014,79.0
+White Collar,TV-PG,2014,93.0
+Blue Bloods,TV-14,2016,95.0
+House of Cards,TV-MA,2016,91.0
+Pretty Little Liars,TV-14,2016,96.0
+The Killing,TV-14,2014,73.0
+Shameless (U.S.),TV-MA,2016,97.0
+New Girl,TV-14,2016,91.0
+Revenge,TV-PG,2015,84.0
+Person of Interest,TV-14,2016,93.0
+Once Upon a Time,TV-PG,2016,98.0
+Scandal,TV-14,2016,92.0
+Forensic Files,TV-14,2011,88.0
+Sherlock,TV-14,2016,95.0
+The Client List,TV-14,2013,92.0
+Orange Is the New Black,TV-MA,2016,98.0
+Black Mirror,TV-MA,2016,80.0
+Bates Motel,TV-14,2016,83.0
+The Fall,TV-MA,2016,61.0
+The Blacklist,TV-14,2016,96.0
+Madam Secretary,TV-14,2016,70.0
+Sense8,TV-MA,2017,81.0
+Rosewood,TV-14,2015,81.0
+The Great British Baking Show,TV-PG,2016,94.0
+Quantico,TV-14,2016,88.0
+Limitless,TV-14,2016,84.0
+American Crime Story: The People v. O.J. Simpson,TV-MA,2016,79.0
+Santa Clarita Diet,TV-MA,2017,82.0
+Girlboss,TV-MA,2017,94.0
+13 Reasons Why,TV-MA,2017,99.0
+The Doctor Blake Mysteries,TV-MA,2016,57.0
+Greenleaf,TV-14,2016,62.0
+The Nightmare Before Christmas,PG,1993,84.0
+Scooby-Doo,PG,2002,86.0
+Chicken Little,G,2005,92.0
+Star Wars: The Clone Wars,PG,2008,57.0
+Coraline,PG,2009,95.0
+Cars Toons: Mater's Tall Tales,TV-G,2010,74.0
+Star Wars: The Clone Wars,TV-PG,2014,93.0
+Phineas and Ferb,TV-G,2012,89.0
+The Batman,TV-Y7,2007,77.0
+Justice League,TV-Y7-FV,2003,66.0
+Mighty Morphin Power Rangers,TV-Y7-FV,2010,73.0
+Young Justice,TV-PG,2012,71.0
+All Hail King Julien,TV-Y7-FV,2016,71.0
+Trollhunters,TV-Y7-FV,2016,83.0
+The Jungle Book,PG,2016,97.0
+The Angry Birds Movie,PG,2016,92.0
+Talking Tom and Friends,TV-G,2016,61.0
+The Nightmare Before Christmas,PG,1993,84.0
+An Extremely Goofy Movie,G,1999,67.0
+Scooby-Doo,PG,2002,86.0
+The Iron Giant,PG,1999,83.0
+Star Wars: The Clone Wars,PG,2008,57.0
+Cars Toons: Mater's Tall Tales,TV-G,2010,74.0
+The Batman,TV-Y7,2007,77.0
+Justice League,TV-Y7-FV,2003,66.0
+Mighty Morphin Power Rangers,TV-Y7-FV,2010,73.0
+LEGO Ninjago: Masters of Spinjitzu,TV-Y7-FV,2015,67.0
+Goosebumps,TV-Y7,1998,88.0
+Pokémon: Indigo League,TV-Y,2000,74.0
+Ratchet and Clank,PG,2016,74.0
+All Hail King Julien,TV-Y7-FV,2016,71.0
+The Adventures of Puss in Boots,TV-Y7-FV,2016,78.0
+Trollhunters,TV-Y7-FV,2016,83.0
+Pokémon: XY,TV-Y7-FV,2015,56.0
+Growing Up Wild,G,2016,80.0
+The Little Rascals,PG,1994,86.0
+Flubber,PG,1997,83.0
+Tarzan,G,1999,95.0
+The Emperor's New Groove,G,2000,95.0
+Scooby-Doo,PG,2002,86.0
+Lilo & Stitch,PG,2002,95.0
+Scooby-Doo 2: Monsters Unleashed,PG,2004,82.0
+The Pacifier,PG,2005,91.0
+Chicken Little,G,2005,92.0
+Bee Movie,PG,2007,94.0
+Kung Fu Panda,PG,2008,91.0
+Coraline,PG,2009,95.0
+Cars Toons: Mater's Tall Tales,TV-G,2010,74.0
+Phineas and Ferb,TV-G,2012,89.0
+Super Why!,TV-Y,2015,68.0
+Jessie,TV-G,2015,88.0
+Lab Rats,TV-Y7,2016,85.0
+Masha and the Bear,TV-Y,2013,81.0
+Pocoyo,TV-Y,2007,67.0
+Home,PG,2015,94.0
+Dragons: Race to the Edge,TV-Y7-FV,2017,88.0
+Little Einsteins,TV-Y,2007,70.0
+Hotel Transylvania 2,PG,2015,93.0
+Dawn of the Croods,TV-Y7,2017,72.0
+Goosebumps,PG,2015,90.0
+Kung Fu Panda 3,PG,2016,92.0
+Zootopia,PG,2016,97.0
+The Jungle Book,PG,2016,97.0
+Open Season: Scared Silly,PG,2015,72.0
+The Angry Birds Movie,PG,2016,92.0
+Alice Through the Looking Glass,PG,2016,96.0
+Finding Dory,PG,2016,98.0
+Goldie & Bear,TV-Y,2016,77.0
+Talking Tom and Friends,TV-G,2016,61.0
+The Little Rascals,PG,1994,86.0
+Antz,PG,1998,80.0
+Tarzan,G,1999,95.0
+An Extremely Goofy Movie,G,1999,67.0
+Chicken Run,G,2000,80.0
+The Emperor's New Groove,G,2000,95.0
+Lilo & Stitch,PG,2002,95.0
+Spy Kids 3: Game Over,PG,2003,64.0
+Annie,PG,1982,68.0
+Mulan 2,G,2004,85.0
+Chicken Little,G,2005,92.0
+Lilo & Stitch 2: Stitch Has A Glitch,PG,2005,85.0
+Bee Movie,PG,2007,94.0
+Kung Fu Panda,PG,2008,91.0
+Cars Toons: Mater's Tall Tales,TV-G,2010,74.0
+Super Why!,TV-Y,2015,68.0
+DreamWorks Shrek's Swamp Stories,TV-PG,2008,56.0
+The Magic School Bus,TV-Y,1997,81.0
+Goosebumps,TV-Y7,1998,88.0
+Masha and the Bear,TV-Y,2013,81.0
+Pocoyo,TV-Y,2007,67.0
+Sofia the First,TV-Y,2015,82.0
+Barbie Life in the Dreamhouse,TV-G,2012,85.0
+Paddington,PG,2014,70.0
+All Hail King Julien,TV-Y7-FV,2016,71.0
+Minions,PG,2015,96.0
+Dragons: Race to the Edge,TV-Y7-FV,2017,88.0
+Little Einsteins,TV-Y,2007,70.0
+Hotel Transylvania 2,PG,2015,93.0
+The Little Prince,PG,2015,71.0
+Zootopia,PG,2016,97.0
+The Jungle Book,PG,2016,97.0
+Open Season: Scared Silly,PG,2015,72.0
+The Angry Birds Movie,PG,2016,92.0
+Finding Dory,PG,2016,98.0
+Goldie & Bear,TV-Y,2016,77.0
+Talking Tom and Friends,TV-G,2016,61.0
+Cool Runnings,PG,1993,81.0
+Homeward Bound: The Incredible Journey,G,1993,96.0
+The Little Rascals,PG,1994,86.0
+Anastasia,G,1997,93.0
+Tarzan,G,1999,95.0
+The Emperor's New Groove,G,2000,95.0
+Scooby-Doo,PG,2002,86.0
+Lilo & Stitch,PG,2002,95.0
+Missione Hamburger,PG,1997,75.0
+Chicken Little,G,2005,92.0
+Curious George,G,2006,55.0
+Bee Movie,PG,2007,94.0
+Kung Fu Panda,PG,2008,91.0
+Coraline,PG,2009,95.0
+Cars Toons: Mater's Tall Tales,TV-G,2010,74.0
+Super Why!,TV-Y,2015,68.0
+Jessie,TV-G,2015,88.0
+Secret of the Wings,G,2012,65.0
+The Magic School Bus,TV-Y,1997,81.0
+Masha and the Bear,TV-Y,2013,81.0
+Sofia the First,TV-Y,2015,82.0
+Barbie Life in the Dreamhouse,TV-G,2012,85.0
+Home,PG,2015,94.0
+Paddington,PG,2014,70.0
+Minions,PG,2015,96.0
+Dragons: Race to the Edge,TV-Y7-FV,2017,88.0
+Little Einsteins,TV-Y,2007,70.0
+Hotel Transylvania 2,PG,2015,93.0
+Walt Disney Animation Studios Short Films Collection,TV-G,2015,84.0
+Kung Fu Panda 3,PG,2016,92.0
+Bunk'd,TV-G,2016,61.0
+Zootopia,PG,2016,97.0
+The Jungle Book,PG,2016,97.0
+Open Season: Scared Silly,PG,2015,72.0
+The Angry Birds Movie,PG,2016,92.0
+Alice Through the Looking Glass,PG,2016,96.0
+The BFG,PG,2016,97.0
+Pete's Dragon,PG,2016,93.0
+Kubo and the Two Strings,PG,2016,96.0
+Goldie & Bear,TV-Y,2016,77.0
+Growing Up Wild,G,2016,80.0
+The Real Ghostbusters,TV-Y7,1990,65.0
+Cool Runnings,PG,1993,81.0
+Anastasia,G,1997,93.0
+Antz,PG,1998,80.0
+The Prince of Egypt,PG,1998,81.0
+Tarzan,G,1999,95.0
+The Road to El Dorado,PG,2000,91.0
+Pocahontas II: Journey to a New World,TV-G,1998,64.0
+The Emperor's New Groove,G,2000,95.0
+Fantasia,G,1940,61.0
+An American Tail,G,1986,67.0
+Balto,G,1995,64.0
+The Iron Giant,PG,1999,83.0
+Brother Bear 2,G,2006,57.0
+The Magic School Bus,TV-Y,1997,81.0
+Animaniacs,TV-Y7,1997,72.0
+The Pirate Fairy,G,2014,57.0
+Walt Disney Animation Studios Short Films Collection,TV-G,2015,84.0
+Alice Through the Looking Glass,PG,2016,96.0
+The Real Ghostbusters,TV-Y7,1990,65.0
+Flubber,PG,1997,83.0
+Anastasia,G,1997,93.0
+An Extremely Goofy Movie,G,1999,67.0
+An American Tail,G,1986,67.0
+Scooby-Doo,PG,2002,86.0
+FernGully: The Last Rainforest,G,1992,70.0
+Balto,G,1995,64.0
+The Iron Giant,PG,1999,83.0
+Little Einsteins,TV-Y,2007,70.0
+Hotel Transylvania 2,PG,2015,93.0
+The Real Ghostbusters,TV-Y7,1990,65.0
+Cool Runnings,PG,1993,81.0
+Anastasia,G,1997,93.0
+Antz,PG,1998,80.0
+The Prince of Egypt,PG,1998,81.0
+Tarzan,G,1999,95.0
+The Road to El Dorado,PG,2000,91.0
+Pocahontas II: Journey to a New World,TV-G,1998,64.0
+The Emperor's New Groove,G,2000,95.0
+Fantasia,G,1940,61.0
+An American Tail,G,1986,67.0
+Balto,G,1995,64.0
+The Iron Giant,PG,1999,83.0
+Brother Bear 2,G,2006,57.0
+The Magic School Bus,TV-Y,1997,81.0
+Animaniacs,TV-Y7,1997,72.0
+The Pirate Fairy,G,2014,57.0
+Walt Disney Animation Studios Short Films Collection,TV-G,2015,84.0
+Alice Through the Looking Glass,PG,2016,96.0
+The Real Ghostbusters,TV-Y7,1990,65.0
+Cool Runnings,PG,1993,81.0
+Homeward Bound: The Incredible Journey,G,1993,96.0
+Anastasia,G,1997,93.0
+Antz,PG,1998,80.0
+The Road to El Dorado,PG,2000,91.0
+Fantasia,G,1940,61.0
+Harry and the Hendersons,PG,1987,58.0
+Atlantis: The Lost Empire,PG,2001,96.0
+FernGully: The Last Rainforest,G,1992,70.0
+Balto,G,1995,64.0
+Atlantis: Milo's Return,G,2003,79.0
+Annie,PG,1982,68.0
+The Iron Giant,PG,1999,83.0
+Mulan 2,G,2004,85.0
+Corpse Bride,PG,2005,91.0
+Brother Bear 2,G,2006,57.0
+Animaniacs,TV-Y7,1997,72.0
+The Pirate Fairy,G,2014,57.0
+Growing Up Wild,G,2016,80.0
+Cool Runnings,PG,1993,81.0
+Flubber,PG,1997,83.0
+Anastasia,G,1997,93.0
+Antz,PG,1998,80.0
+The Road to El Dorado,PG,2000,91.0
+An American Tail,G,1986,67.0
+Harry and the Hendersons,PG,1987,58.0
+Baby's Day Out,PG,1994,71.0
+Balto,G,1995,64.0
+Blank Check,PG,1994,93.0
+Heavyweights,PG,1995,74.0
+Annie,PG,1982,68.0
+D2: The Mighty Ducks,PG,1994,70.0
+"Honey, I Shrunk the Kids",PG,1989,80.0
+The Iron Giant,PG,1999,83.0
+H2O: Just Add Water,TV-PG,2009,74.0
+The Magic School Bus,TV-Y,1997,81.0
+Pokémon: Indigo League,TV-Y,2000,74.0
+Paddington,PG,2014,70.0
+Dawn of the Croods,TV-Y7,2017,72.0
+The BFG,PG,2016,97.0
+Growing Up Wild,G,2016,80.0
